@@ -1,3 +1,6 @@
+# Description
+This is a part of the course whose information is showed below
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
