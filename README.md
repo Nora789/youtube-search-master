@@ -1,5 +1,5 @@
 # Description
-This is a part of the course whose information is showed below
+This is a part of the course whose information is showed below.
 
 # ReduxSimpleStarter
 
